@@ -14,9 +14,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheryar-bit&label=Profile%20views&color=0e75b6&style=flat" alt="sheryar-bit" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, DSA, Git, DATABASE**
+- 🌱 I’m currently learning **Backend Development**
 
-- 💬 Ask me about **Java, CSS, HTML5, C, JavaScript, Git, MYSQL**
+- 💬 Ask me about **Java, C, JavaScript, Git, MYSQL, Python, OOP**
 
 - 📫 How to reach me **alisharyar93@gmail.com**
 
