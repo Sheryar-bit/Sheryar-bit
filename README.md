@@ -1,6 +1,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sheryar!;"     
 </h1>
+[![MasterHead](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)](https://raw.githubusercontent.com/KShukhrat/KShukhrat/main/assets/header_gif.gif)
+
 <br>
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 
@@ -10,7 +12,7 @@
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/Sheryar-bit/JS_Newbie)
 
-- 🌱 I’m currently learning **JavaScript, DSA, Git, React**
+- 🌱 I’m currently learning **JavaScript and Backend development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sheryar-bit](https://github.com/Sheryar-bit)
 
