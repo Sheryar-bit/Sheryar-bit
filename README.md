@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sheryar!" />
 </h1>
 
-<img align="right" alt="Coding" width="200" height= "200px" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">   
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">   
 
 <br>
 
