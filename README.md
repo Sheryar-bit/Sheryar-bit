@@ -1,12 +1,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sheryar!;"     
 </h1>
-
+<br>
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <br>
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?sheryar-bit=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+    
 - 🔭 I’m currently working on [JavaScript](https://github.com/Sheryar-bit/JS_Newbie)
 
 - 🌱 I’m currently learning **JavaScript and Backend development**
