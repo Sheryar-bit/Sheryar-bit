@@ -5,7 +5,7 @@
 <br>
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/Sheryar-bit=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?sheryar-bit=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/Sheryar-bit/JS_Newbie)
 
