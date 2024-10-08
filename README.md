@@ -5,8 +5,8 @@
 <br>
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheryar-bit" alt="sheryar-bit" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=sheryar-bit](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia)" alt="sheryar-bit" /></a> </p>
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=algolia
 - 🔭 I’m currently working on [JavaScript](https://github.com/Sheryar-bit/JS_Newbie)
 
 - 🌱 I’m currently learning **JavaScript and Backend development**
