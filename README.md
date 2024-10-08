@@ -5,8 +5,6 @@
 <br>
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheryar-bit&label=Profile%20views&color=0e75b6&style=flat" alt="sheryar-bit" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheryar-bit" alt="sheryar-bit" /></a> </p>
 
 - 🔭 I’m currently working on [JavaScript](https://github.com/Sheryar-bit/JS_Newbie)
