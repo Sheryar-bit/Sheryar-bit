@@ -1,6 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sheryar!" />
 </h1>
+<img src = "https://th.bing.com/th/id/R.3dc98e10a8cef3affa7c30e4b79453bc?rik=10fXHqNSftFcTQ&pid=ImgRaw&r=0">
 
 <br>
 
