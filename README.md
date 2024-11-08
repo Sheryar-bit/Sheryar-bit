@@ -71,4 +71,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheryar-bit&show_icons=true&locale=en" alt="sheryar-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheryar-bit&" alt="sheryar-bit" /></p>
