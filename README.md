@@ -7,7 +7,7 @@
 <br>
 
 # 💫 About Me:
-🔭 I’m currently working on Backend development projects with Node.js, Express.js and Databases.<br><br>👯 I’m looking to collaborate on Backend-focused projects, especially those involving database management or APIs.<br><br>🤝 I’m looking for help with Learning advanced backend development concepts and frameworks.<br><br>🌱 I’m currently learning Backend development with Advanced NodeJS, Databases, Typescript, NestJS, Firebase, Core Backend Development, DevOps.<br><br>💬 Ask me about backend development, Node.JS, Express.JS, APIs, Database, Java, JavaScript, C, and software development.<br><br>⚡ Fun fact I love exploring new programming languages and have a strong interest in creating one of my own someday!
+🔭 I’m currently working on Backend development projects with Node.js, Express.js and Databases.<br><br>👯 I’m looking to collaborate on Backend-focused projects, especially those involving database management or APIs.<br><br>🤝 I’m looking for help with Learning advanced backend development concepts and frameworks.<br><br>🌱 I’m currently learning Core Backend Development with Advanced NodeJS, Databases, NestJS, DevOps.<br><br>💬 Ask me about backend development, Node.JS, Express.JS, APIs, Database, Java, JavaScript, C, and software development.<br><br>⚡ Fun fact I won't stop hehehe!
 
 
 ## 🌐 Socials:
