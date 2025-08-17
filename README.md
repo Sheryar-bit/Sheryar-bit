@@ -4,7 +4,7 @@
 <h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 <div align="center">
 
-# **[Sheryar Portfolio](https://muhammad-sheryar-portfolio.vercel.app/)**
+# **[View Sheryar Portfolio](https://muhammad-sheryar-portfolio.vercel.app/)**
 
 </div>
 
