@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Sheryar!" />
 </h1>
-<h3 align="center">Bridging Theory with Practical Application in Software Development</h3>
 <div align="center">
 
 # **[View Sheryar Portfolio](https://muhammad-sheryar-portfolio.vercel.app/)**
@@ -16,7 +15,7 @@
 
 
 # About Me:
-I’m currently working on Backend development projects with Node.js, NestJS and Databases.<br><br> I’m looking to collaborate on Backend-focused projects, especially those involving database management or APIs.<br><br>I’m looking for help with Learning advanced backend development concepts and frameworks.<br><br>I’m currently learning Core Backend Development with Advanced NodeJS, Databases, NestJS, DSA.<br><br>Ask me about backend development, Node.JS, Express.JS, APIs, Database, Java, JavaScript, and software development.<br><br>Fun fact I want to build Products not Projects!
+Working and constantly exploring core Backend and System Design stuff. Wrangling with GenAI and LLMs. Reading tech articles and regretting the decision of choosing a CS degree. Hate DSA and Networking. <br><br> Built 3 products, shipped 1. Hackathons participated in 3 won 0 :).
 
 
 ## 🌐 Socials:
